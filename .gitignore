@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Dataset files
+data/ravdess/
+data/TESS/
+data/EMO-DB/
+*.wav
+*.mp3
+
+# Model files
+*.h5
+*.keras
+*.pkl
+
+# System files
+.DS_Store
+Thumbs.db
